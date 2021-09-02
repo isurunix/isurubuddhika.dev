@@ -1,9 +1,13 @@
-baseURL: http://example.org/
+baseURL: https://isurubuddhika.dev/
 languageCode: en-us
 title: isurubuddhika.dev
 theme: "PaperMod"
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
 enableEmoji: true
-
 
 params:
     showShareButtons: true
