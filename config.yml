@@ -1,0 +1,82 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: isurubuddhika.dev
+theme: "PaperMod"
+enableEmoji: true
+
+
+params:
+    showShareButtons: true
+    showReadingTime: true
+    showTags: true
+    showBreadcrumbs: false
+    defaultTheme: dark
+
+    profileMode:
+        enabled: true
+        title: "Hi, I'm Isuru \U0001F44B" # optional default will be site title
+        subtitle: >
+            <Fullstack Engineer, Techie with a Conscience/>  
+            
+            <Loves Cofee, Code, Books and Philosophy/>  
+
+            Coder by Choice, not by Chance  
+
+        imageUrl: "https://pbs.twimg.com/profile_images/994521163916169217/fayMS6hm.jpg" # optional
+        imageTitle: "profile-img" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        badges:
+          - name: Linux
+          - name: Java
+          - name: ReactJS
+          - name: Angular
+          - name: MySQL
+          - name: PostgreSQL
+          - name: Docker
+          - name: Jenkins
+          - name: Python
+
+    socialIcons: # optional
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/isurubuddhika/"
+        - name: "stackoverflow"
+          url: "https://stackoverflow.com/users/1979249/isuru-pathirana"
+        - name: "dev"
+          url: "https://dev.to/isurunix"
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: blog
+          name: Blog
+          url: /posts/
+          weight: 20
+        - identifier: about
+          name: About
+          url: about
+          weight: 30
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+          
