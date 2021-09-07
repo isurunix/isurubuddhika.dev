@@ -2,14 +2,14 @@
 title: "About"
 date: 2021-09-02T21:16:13+05:30
 #url: "/about"
-draft: true
-ShowShareButtons: false
-ShowBreadCrumbs: false
+draft: false
+disableShare: true
+showBreadcrumbs: false
 ---
 
-Hi, I'm Isuru. and I'm a code by choice.
-I had a passion towards programming and tech stuff since my childhood and during my last school days at school I decided to choose software engineering as my career. 
+Hi, I'm Isuru, and I have a thing for tech.
+This is my personal space where I would go writing things I find interesting (no promises though).  
+I'm more of a reader than a writer so don't expect frequent blogging. :wink:
 
-## At the moment
-I work as a senior softwar engineer at hSenid Mobile Solutions.
+
 

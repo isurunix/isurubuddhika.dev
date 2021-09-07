@@ -4,6 +4,7 @@ date: 2021-09-02T20:42:46+05:30
 draft: false
 categories: ["general"]
 showShareButtons: true
+showBreadcrumbs: true
 ---
 
 I have always wanted to move away from wordpress and start writing my blogs in Markdown.
