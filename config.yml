@@ -1,6 +1,6 @@
 baseURL: https://isurubuddhika.dev/
 languageCode: en-us
-title: isurubuddhika.dev
+title: Techie with a Conscience
 theme: "PaperMod"
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -15,16 +15,20 @@ params:
     showTags: true
     showBreadcrumbs: false
     defaultTheme: dark
+    disableThemeToggle: true
+    label:
+      icon: /blog_icon.png
+      # text: isuru-buddhika.dev
 
     profileMode:
         enabled: true
         title: "Hi, I'm Isuru \U0001F44B" # optional default will be site title
         subtitle: >
-            <Fullstack Engineer, Techie with a Conscience/>  
+            | Fullstack Engineer, Techie with a Conscience |  
             
-            <Loves Cofee, Code, Books and Philosophy/>  
+            Loves Cofee, Code, Books, Movies and Philosophy  
 
-            Coder by Choice, not by Chance  
+            Coder by Choice  
 
         imageUrl: "https://pbs.twimg.com/profile_images/994521163916169217/fayMS6hm.jpg" # optional
         imageTitle: "profile-img" # optional
@@ -40,6 +44,7 @@ params:
           - name: Docker
           - name: Jenkins
           - name: Python
+          - name: AWS
 
     socialIcons: # optional
         - name: "linkedin"

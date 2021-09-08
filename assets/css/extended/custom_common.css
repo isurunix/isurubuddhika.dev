@@ -1,3 +1,11 @@
+@font-face {
+    font-family: JetBrains Mono;
+    src:local("/assets/fonts/JetBrainsMono-Regular.ttf");
+}
+
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
 .badge {
     display: inline-block;
     padding: .25em .4em;
