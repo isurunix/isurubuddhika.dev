@@ -1,6 +1,7 @@
 baseURL: https://isurubuddhika.dev/
 languageCode: en-us
 title: Techie with a Conscience
+copyright: "&copy; 2021 [Isuru Buddhika Pathirana](/)"
 theme: "PaperMod"
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -51,8 +52,8 @@ params:
           url: "https://www.linkedin.com/in/isurubuddhika/"
         - name: "stackoverflow"
           url: "https://stackoverflow.com/users/1979249/isuru-pathirana"
-        - name: "dev"
-          url: "https://dev.to/isurunix"
+        - name: "twitter"
+          url: "https://twitter.com/isurunix"
 
     fuseOpts:
         isCaseSensitive: false
