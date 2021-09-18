@@ -5,21 +5,22 @@ copyright: "&copy; 2021 [Isuru Buddhika Pathirana](/)"
 theme: "PaperMod"
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
 
 params:
     showShareButtons: true
+    shareButtons: [twitter, linkedin, reddit, whatsapp, telegram]
     showReadingTime: true
     showTags: true
     showBreadcrumbs: false
     defaultTheme: dark
-    disableThemeToggle: true
+    disableThemeToggle: false
     label:
-      icon: /blog_icon.png
-      # text: isuru-buddhika.dev
+      # icon: /blog_icon.png
+      text: "{ isuru buddhika }"
 
     profileMode:
         enabled: true
@@ -36,15 +37,20 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         badges:
-          - name: Linux
           - name: Java
           - name: ReactJS
           - name: Angular
           - name: MySQL
-          - name: PostgreSQL
-          - name: Docker
-          - name: Jenkins
+          - name: Postgres
           - name: Python
+          - name: Jenkins
+          - name: Docker
+          - name: Linux
+          - name: BASH
+          - name: nginx
+          - name: apache
+          - name: Tomcat
+          - name: Wildfly
           - name: AWS
 
     socialIcons: # optional
