@@ -7,7 +7,7 @@ disableShare: true
 showBreadcrumbs: false
 ---
 
-Hi, I'm Isuru, and I'm a Software Engineer.
+Hi, I'm Isuru Buddhika Pathirana (He/Him), and I'm a Software Engineer.
 
 I primarily work with Java (Backend) but, I know my way around the complete stack.
 
