@@ -6,8 +6,6 @@ tags:
 date: 2023-09-16
 ---
 
-# Database Scaling
-
 When a system grows it's data also grows with it requiring the database to be scaled in order to handle loads of data.
 The two broad approches for scaling a database is vertical scaling and horizontal scaling.
 Same as in scaling an application server vertical database scaling refers to allocating more resources to the database

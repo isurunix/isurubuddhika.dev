@@ -5,7 +5,6 @@ tags:
   - scaling
 date: 2023-09-15
 ---
-# Scaling for Millions of Users
 
 **Scenario** : A system that caters large number of users with a web front-end and a mobile app.
 
