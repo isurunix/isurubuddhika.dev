@@ -3,6 +3,6 @@
   {{- $lastIndex := sub (len $tags) 1 -}}
   {{- range $index, $tag := $tags -}}
     <a class="post-meta-tag" href="/tags/{{ $tag | urlize }}"> {{ $tag }}</a>
-    {{- if ne $index $lastIndex }}&nbsp;,&nbsp;{{ end -}}
+    {{- if ne $index $lastIndex }}&nbsp;.&nbsp;{{ end -}}
   {{- end -}}
 {{- end -}}

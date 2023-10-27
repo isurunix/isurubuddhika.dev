@@ -31,12 +31,16 @@ body {
 }
 
 .post-meta-tag {
-    display: inline-block;
-    vertical-align: baseline;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
-    color: var(--secondary);
-    background: var(--code-bg);
-    padding-right: 0.6em;
-    padding-left: 0.6em;
+  display: inline-block;
+  vertical-align: baseline;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  color: var(--secondary);
+  background: var(--code-bg);
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+}
+
+.line-break {
+  width: 100%;
 }
