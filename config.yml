@@ -81,15 +81,19 @@ menu:
         - identifier: home
           name: Home
           url: /
-          weight: 10
+          weight: 1
         - identifier: blog
           name: Blog
           url: /posts/
-          weight: 20
+          weight: 2
         - identifier: about
           name: About
           url: about
-          weight: 30
+          weight: 3
+        - identifier: notes
+          name: Notes
+          url: /notes/
+          weight: 4
 
 taxonomies:
     category: categories
