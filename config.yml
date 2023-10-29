@@ -90,10 +90,8 @@ menu:
           name: About
           url: about
           weight: 3
-        - identifier: notes
-          name: Notes
-          url: /notes/
-          weight: 4
+        - name: Notes
+          url: https://notes.isurubuddhika.dev/
 
 taxonomies:
     category: categories
