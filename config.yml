@@ -90,7 +90,8 @@ menu:
           name: About
           url: about
           weight: 3
-        - name: Notes
+        - identifier: notes
+          name: Notes
           url: https://notes.isurubuddhika.dev/
 
 taxonomies:
