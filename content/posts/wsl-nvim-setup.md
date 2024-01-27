@@ -6,6 +6,7 @@ tags:
 - WSL
 - Neovim
 - NvChad
+description: "Guide to setting up neovim and NVchad in WSL and the pain points I experienced during the setup"
 ---
 
 I usually use vim as my text editor of choice when I'm working with different text files like configurations,
