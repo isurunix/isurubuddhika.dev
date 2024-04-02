@@ -1,7 +1,7 @@
 baseURL: https://isurubuddhika.dev/
 languageCode: en-us
 title: Techie with a Conscience
-copyright: "&copy; 2023 [Isuru Buddhika Pathirana](/)"
+copyright: "&copy; 2024 [Isuru Buddhika Pathirana](/)"
 theme: "PaperMod"
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -38,6 +38,7 @@ params:
         imageHeight: 120 # custom size
         badges:
           - name: Java
+          - name: Spring
           - name: ReactJS
           - name: Angular
           - name: MySQL
@@ -50,8 +51,8 @@ params:
           - name: nginx
           - name: apache
           - name: Tomcat
-          - name: Wildfly
           - name: AWS
+          - name: Kafka
 
     socialIcons: # optional
         - name: "linkedin"
