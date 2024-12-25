@@ -1,6 +1,6 @@
 # isurubuddhika.dev
 
-Welcome to the repository for my personal blog, where I share my thoughts on technology, privacy, and various other topics. This blog is built using [Hugo](https://gohugo.io/), a fast and flexible static site generator.
+Welcome to the repository for my personal blog, where I share my thoughts on technology, privacy, and various other topics. This blog is built using [Hugo](https://gohugo.io/), a fast and flexible static site generator, and deployed using [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ## Table of Contents
 
@@ -56,9 +56,7 @@ To create a new blog post, use the following command:
 hugo new posts/your-new-post.md
 ```
 
-Edit the newly created file in the `content/posts/` directory and add your content.
-
-
+Edit the newly created file in the `content/posts/` directory and add your content. Each post will be deployed automatically using Cloudflare Workers.
 
 ---
 
