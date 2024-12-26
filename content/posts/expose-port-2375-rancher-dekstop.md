@@ -32,10 +32,8 @@ This is because the `rancher/socat-docker` uses a legacy Docker image format whi
     docker build -t rancher/socat-docker .
     ```
 - Run socat container using the image you just built
-    ```
-    docker run -d --restart always \
-    -v /var/run/docker.sock:/var/run/docker.sock \
-    -p 2375:2375 --name expose-docker-on-2375 rancher/socat-docker
+    ```bash
+    docker run -d --restart always -v /var/run/docker.sock:/var/run/docker.sock -p 2375:2375 --name expose-docker-on-2375 rancher/socat-docker
     ```
 
 
