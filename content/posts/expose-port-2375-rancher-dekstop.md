@@ -6,8 +6,6 @@ categories: ["guides"]
 tags: ["docker","ci/cd","maven"]
 ---
 
-# Expose port 2375 on Rancher Desktop
-
 If you've been working with Docker on Windows for a there is big chance that you are aleready using Rancher Desktop instead of Docker Desktop after the licensing change Docker did in 2021. 
 
 While Rancher Desktop makes it easy to manage Docker on Windows it does not expose the Docker socket over port `2375` by default. While Docker Desktop used to have a way to enable this by clicking a checkbox in the UI Ranches does not have such an option.
