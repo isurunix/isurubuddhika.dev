@@ -1,6 +1,6 @@
 # isurubuddhika.dev
 
-Welcome to the repository for my personal blog, where I share my thoughts on technology, privacy, and various other topics. This blog is built using [Hugo](https://gohugo.io/), a fast and flexible static site generator, and deployed using [Cloudflare Workers](https://workers.cloudflare.com/).
+Welcome to the repository for my personal blog, where I share my thoughts on technology, privacy, and various other topics. This blog is built using [Hugo](https://gohugo.io/), a fast and flexible static site generator, and deployed using [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ## Table of Contents
 
