@@ -23,20 +23,21 @@ This is because the `rancher/socat-docker` uses a legacy Docker image format whi
 ## Steps to expose 2375 on Rancher Desktop
 
 - Clone socat repository from GitHub
-  ```bash
-  git clone git@github.com:rancher/socat-test.git
-  ```
+    ```bash
+    git clone git@github.com:rancher/socat-test.git
+    ```
 - Build the Docker image
-  ```bash
-  cd socat-test
-  docker build -t rancher/socat-docker .
-  ```
+    ```bash
+    cd socat-test
+    docker build -t rancher/socat-docker .
+    ```
 - Run socat container using the image you just built
-  ```
-  docker run -d --restart always \
-  -v /var/run/docker.sock:/var/run/docker.sock \
-  -p 2375:2375 --name expose-docker-on-2375 rancher/socat-docker
-  ```
+    ```
+    docker run -d --restart always \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -p 2375:2375 --name expose-docker-on-2375 rancher/socat-docker
+    ```
+
 
 That's it and you should be use docker over 2375 now.
 
