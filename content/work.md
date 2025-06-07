@@ -1,6 +1,5 @@
 ---
 title: "Work"
-date: 2025-06-08
 #url: "/work"
 draft: false
 showBreadcrumbs: false
