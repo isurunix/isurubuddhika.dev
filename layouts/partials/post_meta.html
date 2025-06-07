@@ -19,11 +19,11 @@
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
-{{- delimit . "&nbsp;·&nbsp;" -}}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
 
 {{- $tags := (partial "tags.html" .) }}
 {{- if $tags }}
     <div class="line-break"></div>
-    <p>Tags: {{ $tags }}</p>
+    <p>Tags: {{ $tags | safeHTML }}</p>
 {{- end}}
