@@ -7,8 +7,6 @@ disableShare: true
 showBreadcrumbs: false
 ---
 
-# About Me
-
 Hey there! 👋 I'm **Isuru Buddhika Pathirana** (He/Him), a senior engineer based in Colombo, Sri Lanka.
 
 ## What I Do
