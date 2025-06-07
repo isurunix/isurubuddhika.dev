@@ -7,7 +7,7 @@ showBreadcrumbs: false
 
 ## Wiley
 **Associate Technical Specialist** *(Dec 2023 - Present)*  
-**Senior Software Engineer** *(Dec 2021 - Nov 2023)*  
+**Senior Software Engineer** *(Dec 2021 - Nov 2023)*
 
 Leading agile development teams in building enterprise-grade distributed systems. Focus on microservices architecture, team mentorship, and driving engineering excellence across projects.
 
@@ -16,7 +16,8 @@ Leading agile development teams in building enterprise-grade distributed systems
 ---
 
 ## hSenid Mobile Solutions
-**Senior Software Engineer** *(Jan 2021 - Dec 2021)*
+**Senior Software Engineer** *(Jan 2021 - Dec 2021)*  
+*1 yr*
 
 - Led project teams for mission-critical applications, working closely with business analysts and QA teams
 - Modernized legacy codebases to current development standards, reducing operating costs
@@ -55,7 +56,8 @@ Leading agile development teams in building enterprise-grade distributed systems
 ---
 
 ## Synapse (Telecommunication Solutions)
-**Associate Software Engineer** *(Nov 2015 - Oct 2016)*
+**Associate Software Engineer** *(Nov 2015 - Oct 2016)*  
+*1 yr*
 
 - Developed Dialog mAgri USSD and IVR applications
 - Built Java backend services and web applications
@@ -67,14 +69,16 @@ Leading agile development teams in building enterprise-grade distributed systems
 ---
 
 ## The Open University of Sri Lanka
-**Computer Hardware Trainee** *(Mar 2015 - Jun 2015)*
+**Computer Hardware Trainee** *(Mar 2015 - Jun 2015)*  
+*4 mos*
 
 Computer assembly, OS installation, hardware repair, and network infrastructure setup.
 
 ---
 
 ## Freelance Experience
-**Software Developer** at Fiverr *(Nov 2014 - Sep 2019)*
+**Software Developer** at Fiverr *(Nov 2014 - Sep 2019)*  
+*4 yrs 11 mos*
 
 Developed Java backend systems, web applications, and database solutions for international clients.
 
