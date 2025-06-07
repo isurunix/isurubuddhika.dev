@@ -9,7 +9,6 @@ showBreadcrumbs: false
 ## Wiley
 **Associate Technical Specialist** *(Dec 2023 - Present)*  
 **Senior Software Engineer** *(Dec 2021 - Nov 2023)*  
-*3 yrs 7 mos total*
 
 Leading agile development teams in building enterprise-grade distributed systems. Focus on microservices architecture, team mentorship, and driving engineering excellence across projects.
 
