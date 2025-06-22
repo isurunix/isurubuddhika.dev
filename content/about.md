@@ -11,23 +11,21 @@ Hey there! 👋 I'm **Isuru Buddhika Pathirana** (He/Him), a senior engineer bas
 
 ## What I Do
 
-I spend my days architecting and building scalable distributed systems, leading development teams, and turning complex requirements into elegant technical solutions. While Java and Spring Boot are my bread and butter, I'm comfortable across the full stack and love diving into new technologies.
+I spend my days designing and building scalable distributed systems, leading development teams, and turning complex requirements into elegant technical solutions. While I mostly work with backend technologies like Java/SpringBoot, Kafka, Docker and MySQL, I'm comfortable across the full stack and love digging into new technologies.
 
 **My current tech obsessions:**
+- Clean and maintainable code (which is always my number one)
 - Distributed architecture that actually scales
-- DevOps practices that make deployment a joy
 - AI-assisted development tools and MCP (Model Context Protocol) integrations
-- Clean code that future-me will thank present-me for
+- DevOps practices that make deployment a joy
 
-## The Frontend Chronicles
+## Who I am
 
-I used to be *that guy* who hated React and swore by Angular. Plot twist: I now love both equally (okay, maybe React has a slight edge, but don't tell Angular). This journey taught me that the best technology is usually the one that solves your specific problem elegantly.
+I'm passionate about code quality and believe that clean, well-tested code isn't just nice to have—it's essential. If your PR doesn't meet standards, we're going to have a friendly but firm conversation about it.
 
-## My Philosophy
+I used to be *that guy* who hated React and swore by Angular. But along the journey I became a React enthusiast. And also I firmly believe that the best technology is usually the one that solves your specific problem elegantly.
 
-I'm passionate about code quality and believe that clean, well-tested code isn't just nice to have—it's essential. If your PR doesn't meet standards, we're going to have a friendly but firm conversation about it. Trust me, your future self will thank you.
-
-I'm also deeply interested in the evolving landscape of AI-assisted development. Tools like GitHub Copilot and MCP-enabled AI agents are game-changers, but I view them as incredibly smart senior engineers who can write excellent code—except they don't have the full context of your problem or the architectural knowledge of your system. The magic happens when you combine AI efficiency with human judgment, architectural thinking, and thorough code review. We shouldn't offload our thinking to AI; instead, we should leverage these tools to write better code faster while keeping our brains firmly in the driver's seat.
+I'm also deeply interested in the evolving landscape of AI-assisted development. Tools like GitHub Copilot and MCP-enabled AI agents are great, but I believe the magic happens when you combine AI efficiency with human judgment, architectural thinking, and thorough code review. We shouldn't offload our thinking to AI; instead, we should leverage these tools to write better code faster while keeping our brains firmly in the driver's seat.
 
 ## Why I Write
 
@@ -35,15 +33,16 @@ This blog is where I share my adventures in software engineering, thoughts on sy
 
 ## Beyond the Code
 
-When I'm not architecting systems or reviewing code, you'll find me:
+When I'm not designing systems or looking at some weired code, you'll find me:
 - Reading everything from technical documentation to science fiction
 - Watching movies (the good, the bad, and the wonderfully terrible)
 - Exploring the intersection of technology and philosophy
-- Probably drinking coffee ☕
+- Discussing with my inner voice about modern and greek philosophy
+- Probably drinking coffee (or a beer if it's a Friday)
 
 ## Let's Connect
 
-Got questions about distributed systems? Want to debate the merits of different architectural patterns? Curious about AI-assisted development workflows or MCP integrations? Just want to chat about tech, books, or why human oversight is crucial when working with AI coding tools?
+Got questions about distributed systems? Want to debate the merits of different architectural patterns? Curious about AI-assisted development workflows or MCP integrations? Just want to chat about tech, books, philosophy, or why human oversight is crucial when working with AI coding tools?
 
 - **Twitter**: [@isurunix](https://twitter.com/isurunix)
 - **Email**: hello@isurubuddhika.me
@@ -52,6 +51,3 @@ Got questions about distributed systems? Want to debate the merits of different 
 ---
 
 *"The best code is the code you don't have to write twice, and the best architecture is the one that scales gracefully with both traffic and team size."*
-
-
-
