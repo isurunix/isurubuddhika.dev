@@ -29,7 +29,9 @@ I'm also deeply interested in the evolving landscape of AI-assisted development.
 
 ## Why I Write
 
-This blog is where I share my adventures in software engineering, thoughts on system design, open-source discoveries, AI-assisted development insights, and the occasional deep dive into how we can work more effectively with AI coding tools. I also explore digital privacy, the ethics of AI in development, and the balance between automation and human expertise. Fair warning: I'm more of a reader than a writer, so posts come when inspiration strikes rather than on a schedule. Quality over quantity, right? 😉
+This blog is where I share my adventures in software engineering, thoughts on system design, interesting discoveries and sometimes rants. I also explore digital privacy, the ethics of AI in development, and the balance between automation and human expertise. 
+
+**Fair warning**: I'm more of a reader than a writer, so posts come when inspiration strikes rather than on a schedule. Quality over quantity, right? 😉
 
 ## Beyond the Code
 
