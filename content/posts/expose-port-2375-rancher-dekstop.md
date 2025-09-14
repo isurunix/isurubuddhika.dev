@@ -26,6 +26,7 @@ This is because the `rancher/socat-docker` uses a legacy Docker image format whi
     ```bash
     git clone git@github.com:rancher/socat-test.git
     ```
+- Make sure scripts are using Unix style line endings (LF not CRLF) and make sure the scripts are executable
 - Build the Docker image
     ```bash
     cd socat-test
