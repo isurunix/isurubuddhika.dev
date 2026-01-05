@@ -81,7 +81,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            {{- $label_text := (.Site.Params.label.text) }}
+            {{- $label_text := (.Site.Params.label.text) | safeHTML}}
             {{- if .Site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if .Site.Params.label.icon }}

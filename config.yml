@@ -1,7 +1,7 @@
 baseURL: https://isurubuddhika.dev/
 languageCode: en-us
 title: Techie with a Conscience
-copyright: "&copy; 2025 [Isuru Buddhika Pathirana](/)"
+copyright: "&copy; 2026 [Isuru Buddhika Pathirana](/)"
 theme: "PaperMod"
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -20,7 +20,8 @@ params:
     disableThemeToggle: false
     label:
       # icon: /blog_icon.png
-      text: "{ isuru buddhika }"
+      # text: "<span class='brace'>{</span> isuru buddhika <span class='surname'>pathirana</span> <span class='brace'>}</span>"
+      text: "<span class='brace'>{</span> isurubuddhika.dev <span class='brace'>}</span>"
 
     profileMode:
         enabled: true
